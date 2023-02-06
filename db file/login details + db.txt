@@ -1,0 +1,18 @@
+Database Name: hmisphp
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: Password@123
+
+
+**Employee Login Details**
+pass: pass123
+
+
+1	Rcon Mercado	MWBPG	rcon@mail.com	
+2	Marco Medrano	IP1AL	marco@mail.com	 
+3	Dahl Tamares	51NL0	dahl@mail.com	
+4	Draco Malfoy	0JZUT	draco@mail.com	 
+5	Xyrelle Beltran	RQD4N	xyrelle@mail.com	 
+6	Jem Garing	    YMFN4	jem@mail.com
